@@ -15,19 +15,33 @@ Here are some ideas to get you started:
 
 ## Discordanian
 I'm Kurt Schwind and I make lots of mediocre things.
-Mediocre video games.  
-Mediocre music.
-Mediocore wood-working.
-Mediocre 
+- Mediocre video games
+- Mediocre music
+- Mediocore wood-working
+- Mediocre software
+- Mediocre 3D designs
 
 ### About me
+I have a deep love of Hockey, Soccer, Music and Computers.  I've been doing professional software development since 1993.
+
 
 ### Working on
 I sometimes do fun computer program art on [CodePen](https://codepen.io/Discordanian/pens/showcase)
 
 ### Setup and Kit
+My daily drivers are Apple computers.  I have both a Mac Studio and a MacBook pro.  I also have a linux machine via the hosting service [Vultr](https://www.vultr.com).
+I spend most of my day in a terminal, to the point that I have several terminal applications running.  My favorites are:
+- iTerm2
+- kitty
+- Ghostty
+- Warp
 
+In terminals I navigate using `tmux`.
 
 ### 📫 How to reach me: ...
+- 🤝 [LinkedIn](https://www.linkedin.com/in/kurtschwind/)
+- 🦋 [BSky](https://bsky.app/profile/kurtschwind.bsky.social)
+- 🐘 [Mastodon](https://techhub.social/@Discordanian)
+- 🎮 [Itch.io](https://tangentialcold.itch.io/)
 
 
