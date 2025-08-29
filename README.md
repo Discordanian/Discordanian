@@ -1,19 +1,4 @@
-<!--
-**Discordanian/Discordanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Discordanian
+# Discordanian
 I'm Kurt Schwind and I make lots of mediocre things.
 - Mediocre video games
 - Mediocre music
@@ -21,14 +6,25 @@ I'm Kurt Schwind and I make lots of mediocre things.
 - Mediocre software
 - Mediocre 3D designs
 
-### About me
-I have a deep love of Hockey, Soccer, Music and Computers.  I've been doing professional software development since 1993.
+My personal website is [Tangential Cold Studios](https://tangentialcold.com)
+
+# 🔭 Projects
+- 🎮 [Itch.io](https://tangentialcold.itch.io/) for video games
+- 🎥 [YouTube](https://www.youtube.com/@TangentialColdStudios) Music and game demos
+- 🖥️ [CodePen](https://codepen.io/Discordanian/pens/showcase) Visual demonstrations I've created
 
 
-### Working on
-I sometimes do fun computer program art on [CodePen](https://codepen.io/Discordanian/pens/showcase)
+# About me
+I have a deep love of 
+- Hockey
+- Soccer
+- Music
+- Computers
 
-### Setup and Kit
+I've been doing professional software development since 1993.
+
+
+# Setup and Kit
 My daily drivers are Apple computers.  I have both a Mac Studio and a MacBook pro.  I also have a linux machine via the hosting service [Vultr](https://www.vultr.com).
 I spend most of my day in a terminal, to the point that I have several terminal applications running.  My favorites are:
 - iTerm2
@@ -38,10 +34,15 @@ I spend most of my day in a terminal, to the point that I have several terminal 
 
 In terminals I navigate using `tmux`.
 
-### 📫 How to reach me: ...
+# Applications
+- Reason Studios: Audio and sound work 
+- Davinci Resolve: Video editing
+- Godot: Game development
+- Neovim: text editing
+
+
+# 📫 How to reach me: ...
 - 🤝 [LinkedIn](https://www.linkedin.com/in/kurtschwind/)
 - 🦋 [BSky](https://bsky.app/profile/kurtschwind.bsky.social)
 - 🐘 [Mastodon](https://techhub.social/@Discordanian)
 - 🎮 [Itch.io](https://tangentialcold.itch.io/)
-
-
